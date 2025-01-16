@@ -28,7 +28,6 @@ The preprocessed datasets (split NExT-QA, DramaQA) are stored in datasets folder
 ./data
    |─ nextqa
    |   |─ split_data
-   |   |  |─ train.csv
    |   |  |─ train_CH.csv
    |   |  |─ train_CW.csv
    |   |   ..
