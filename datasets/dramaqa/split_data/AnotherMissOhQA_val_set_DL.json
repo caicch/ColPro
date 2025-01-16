@@ -1,0 +1,3099 @@
+[
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 and Dokyung are hugging in front of the moon.",
+      "Haeyoung1 and Dokyung are hugging in front of the fountain.",
+      "Haeyoung1 and Dokyung are hugging in front of the star.",
+      "Haeyoung1 and Dokyung are hugging in front of the room.",
+      "Haeyoung1 and Dokyung are hugging in front of the toilet."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951594,
+    "shot_contained": [
+      26
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Dokyung and Haeyoung1 hugging in the park?",
+    "vid": "AnotherMissOh14_001_0026",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is standing in the building while hugging Dokyung.",
+      "Haeyoung1 is standing in the office while hugging Dokyung.",
+      "Haeyoung1 is standing in the restroom while hugging Dokyung.",
+      "Haeyoung1 is standing in the alley while hugging Dokyung.",
+      "Haeyoung1 is standing in the toilet while hugging Dokyung."
+    ],
+    "q_level_logic": 2,
+    "qid": 9933107,
+    "shot_contained": [
+      28
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung standing while hugging Haeyoung1?",
+    "vid": "AnotherMissOh14_001_0028",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is standing in front of the fountain while hugging Dokyung.",
+      "Haeyoung1 is standing in front of the building while hugging Dokyung.",
+      "Haeyoung1 is standing in the restaurant while hugging Dokyung.",
+      "Haeyoung1 is standing in front of the wall while hugging Dokyung.",
+      "Haeyoung1 is standing in the office while hugging Dokyung."
+    ],
+    "q_level_logic": 2,
+    "qid": 9961673,
+    "shot_contained": [
+      31
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 standing while hugging Dokyung?",
+    "vid": "AnotherMissOh14_001_0031",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is lying with bleeding at the cafe.",
+      "Dokyung is lying with bleeding on the road.",
+      "Dokyung is lying with bleeding in the office.",
+      "Dokyung is lying with bleeding in the room.",
+      "Dokyung is lying with bleeding in the kitchen."
+    ],
+    "q_level_logic": 2,
+    "qid": 9921663,
+    "shot_contained": [
+      54
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung lying with bleeding?",
+    "vid": "AnotherMissOh14_001_0054",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is standing in front of the house while waving his hand.",
+      "Dokyung is standing in front of the car while waving his hand.",
+      "Dokyung is standing in front of the dog while waving his hand.",
+      "Dokyung is standing in the office while waving his hand.",
+      "Dokyung is standing in the building while waving his hand."
+    ],
+    "q_level_logic": 2,
+    "qid": 9961677,
+    "shot_contained": [
+      93
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung standing while waving his hand?",
+    "vid": "AnotherMissOh14_002_0093",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is walking near the dog while putting his hands in his pockets.",
+      "Dokyung is walking near the bicycle while putting his hands in his pockets.",
+      "Dokyung is walking near Jinsang while putting his hands in his pockets.",
+      "Dokyung is walking near the car while putting his hands in his pockets.",
+      "Dokyung is walking near the computer while putting his hands in his pockets."
+    ],
+    "q_level_logic": 2,
+    "qid": 9922397,
+    "shot_contained": [
+      103
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung walking while putting his hands in his pockets?",
+    "vid": "AnotherMissOh14_002_0103",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is lying in front of the car.",
+      "Haeyoung1 is lying in front of the sun.",
+      "Haeyoung1 is lying in front of the moon.",
+      "Haeyoung1 is lying in front of the beach.",
+      "Haeyoung1 is lying in front of the table."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951616,
+    "shot_contained": [
+      103
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 lying in the living room?",
+    "vid": "AnotherMissOh14_002_0103",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is sitting in the living room.",
+      "Haeyoung1 is sitting in the cafe.",
+      "Haeyoung1 is sitting in the restaurant.",
+      "Haeyoung1 is sitting in the bathroom.",
+      "Haeyoung1 is sitting in the kitchen."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951619,
+    "shot_contained": [
+      105
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 sitting?",
+    "vid": "AnotherMissOh14_002_0105",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is lying on the rug in the kitchen.",
+      "Haeyoung1 is lying on the rug in the bathroom.",
+      "Haeyoung1 is lying on the rug in the living room.",
+      "Haeyoung1 is lying on the rug in the garden.",
+      "Haeyoung1 is lying on the rug in the toilet."
+    ],
+    "q_level_logic": 2,
+    "qid": 9951621,
+    "shot_contained": [
+      106
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 lying on the rug near a doll?",
+    "vid": "AnotherMissOh14_002_0106",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is eating in the bathroom.",
+      "Haeyoung1 is eating in the cafe.",
+      "Haeyoung1 is eating in the kitchen.",
+      "Haeyoung1 is eating in the office.",
+      "Haeyoung1 is eating in the living room."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951623,
+    "shot_contained": [
+      110
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 eating?",
+    "vid": "AnotherMissOh14_003_0110",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is eating in the kitchen.",
+      "Haeyoung1 is eating in the toilet.",
+      "Haeyoung1 is eating in the airplane.",
+      "Haeyoung1 is eating in the ground.",
+      "Haeyoung1 is eating in the car."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951624,
+    "shot_contained": [
+      110
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 eating food?",
+    "vid": "AnotherMissOh14_003_0110",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Deogi is standing in the kitchen while hitting Haeyoung1.",
+      "Deogi is standing in the bathroom while hitting Haeyoung1.",
+      "Deogi is standing in the toilet while hitting Haeyoung1.",
+      "Deogi is standing in the garden while hitting Haeyoung1.",
+      "Deogi is standing in the office while hitting Haeyoung1."
+    ],
+    "q_level_logic": 2,
+    "qid": 9951627,
+    "shot_contained": [
+      113
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Deogi standing while hitting Haeyoung1?",
+    "vid": "AnotherMissOh14_003_0113",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Soontack is sitting on the cloud.",
+      "Soontack is sitting on the car.",
+      "Soontack is sitting on the chair.",
+      "Soontack is sitting on the train.",
+      "Soontack is sitting on the moon."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951636,
+    "shot_contained": [
+      124
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Soontack sitting in the office?",
+    "vid": "AnotherMissOh14_004_0124",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is sitting on the cloud.",
+      "Dokyung is sitting on the chair.",
+      "Dokyung is sitting on the car.",
+      "Dokyung is sitting on the bus.",
+      "Dokyung is sitting on the train."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951646,
+    "shot_contained": [
+      130
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung sitting in the office?",
+    "vid": "AnotherMissOh14_004_0130",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is sitting down on a sofa in the hospital.",
+      "Dokyung is sitting down on a sofa in the bathroom.",
+      "Dokyung is sitting down on a sofa in the restaurant.",
+      "Dokyung is sitting down on a sofa in the cafe.",
+      "Dokyung is sitting down on a sofa in the toilet."
+    ],
+    "q_level_logic": 2,
+    "qid": 9961685,
+    "shot_contained": [
+      148
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung sitting down on a sofa?",
+    "vid": "AnotherMissOh14_004_0148",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is getting on the car with holding a bag.",
+      "Haeyoung1 is getting on the bus with holding a bag.",
+      "Haeyoung1 is getting on the subway with holding a bag.",
+      "Haeyoung1 is getting on the airplane with holding a bag.",
+      "Haeyoung1 is getting on the motorcycle with holding a bag."
+    ],
+    "q_level_logic": 2,
+    "qid": 9923129,
+    "shot_contained": [
+      171
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 getting on with holding a bag?",
+    "vid": "AnotherMissOh14_005_0171",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is sitting on the car.",
+      "Sukyung is sitting on the water.",
+      "Sukyung is sitting on the chair.",
+      "Sukyung is sitting on the cloud.",
+      "Sukyung is sitting on the road."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951668,
+    "shot_contained": [
+      177
+    ],
+    "q_level_mem": 2,
+    "que": "Where is sitting Sukyung in the kitchen?",
+    "vid": "AnotherMissOh14_006_0177",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang is talking to Sukyung in the swimming pool while driving.",
+      "Jinsang is talking to Sukyung in the hospital while driving.",
+      "Jinsang is talking to Sukyung in the park while driving.",
+      "Jinsang is talking to Sukyung in the library while driving.",
+      "Jinsang is talking to Sukyung in the car while driving."
+    ],
+    "q_level_logic": 2,
+    "qid": 9923651,
+    "shot_contained": [
+      215
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jinsang talking to Sukyung while driving?",
+    "vid": "AnotherMissOh14_007_0215",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang is sitting on the passenger's seat while talking to Sukyung.",
+      "Jinsang is sitting on the back seat while talking to Sukyung.",
+      "Jinsang is sitting on the toilet while talking to Sukyung.",
+      "Jinsang is sitting on the desk while talking to Sukyung.",
+      "Jinsang is sitting on the driver's seat while talking to Sukyung."
+    ],
+    "q_level_logic": 2,
+    "qid": 9960499,
+    "shot_contained": [
+      226
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jinsang sitting while talking to Sukyung?",
+    "vid": "AnotherMissOh14_007_0226",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is talking to someone in the movie theater with wearing a white shirt.",
+      "Sukyung is talking to someone in the room with wearing a white shirt.",
+      "Sukyung is talking to someone in the car with wearing a white shirt.",
+      "Sukyung is talking to someone in the museum with wearing a white shirt.",
+      "Sukyung is talking to someone in the cafe with wearing a white shirt."
+    ],
+    "q_level_logic": 2,
+    "qid": 9924341,
+    "shot_contained": [
+      245
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung talking to someone with wearing a white shirt?",
+    "vid": "AnotherMissOh14_007_0245",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is talking with a serious face in the hospital.",
+      "Sukyung is talking with a serious face in the swimming pool.",
+      "Sukyung is talking with a serious face in the stadium.",
+      "Sukyung is talking with a serious face in the office.",
+      "Sukyung is talking with a serious face in the car."
+    ],
+    "q_level_logic": 2,
+    "qid": 9924539,
+    "shot_contained": [
+      253
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung talking with a serious face?",
+    "vid": "AnotherMissOh14_007_0253",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is getting out of the boat.",
+      "Sukyung is getting out of the car.",
+      "Sukyung is getting out of the ship.",
+      "Sukyung is getting out of the airplane.",
+      "Sukyung is getting out of the moon."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951686,
+    "shot_contained": [
+      264
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung getting out on the road?",
+    "vid": "AnotherMissOh14_007_0264",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is getting off from a bike.",
+      "Haeyoung1 is getting off from a bicycle.",
+      "Haeyoung1 is getting off from a car.",
+      "Haeyoung1 is getting off from an airplane.",
+      "Haeyoung1 is getting off from a subway."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951691,
+    "shot_contained": [
+      275
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 getting off from?",
+    "vid": "AnotherMissOh14_008_0275",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung2 is walking on the lobby.",
+      "Haeyoung2 is walking on the fire.",
+      "Haeyoung2 is walking on the space.",
+      "Haeyoung2 is walking on the water.",
+      "Haeyoung2 is walking on the car."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951696,
+    "shot_contained": [
+      288
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung2 walking in the office?",
+    "vid": "AnotherMissOh14_008_0288",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Deogi is passing through the cloud.",
+      "Deogi is passing through the door.",
+      "Deogi is passing through the sea.",
+      "Deogi is passing through the space.",
+      "Deogi is passing through the earth."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951764,
+    "shot_contained": [
+      299
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Deogi passing through near house?",
+    "vid": "AnotherMissOh14_009_0299",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Kyungsu is eating in the cafe.",
+      "Kyungsu is eating in the kitchen.",
+      "Kyungsu is eating in the living room.",
+      "Kyungsu is eating in the bathroom.",
+      "Kyungsu is eating in the car."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951775,
+    "shot_contained": [
+      308
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Kyungsu eating?",
+    "vid": "AnotherMissOh14_009_0308",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is holding a bowl in the office.",
+      "Haeyoung1 is holding a bowl in the moon.",
+      "Haeyoung1 is holding a bowl in the kitchen.",
+      "Haeyoung1 is holding a bowl in the bus.",
+      "Haeyoung1 is holding a bowl in the car."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951776,
+    "shot_contained": [
+      308
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 holding a bowl?",
+    "vid": "AnotherMissOh14_009_0308",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is standing with holding a paper in front of Haeyoung2.",
+      "Haeyoung1 is standing with holding a paper in front of a car.",
+      "Haeyoung1 is standing with holding a paper in front of a dog.",
+      "Haeyoung1 is standing with holding a paper in front of a table.",
+      "Haeyoung1 is standing with holding a paper in front of a cup."
+    ],
+    "q_level_logic": 2,
+    "qid": 9933377,
+    "shot_contained": [
+      322
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Haeyoung1 standing with holding a paper?",
+    "vid": "AnotherMissOh14_009_0322",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung2 is sitting in the hospital with wearing a tie.",
+      "Haeyoung2 is sitting in the stadium with wearing a tie.",
+      "Haeyoung2 is sitting in the bus with wearing a tie.",
+      "Haeyoung2 is sitting in the swimming pool with wearing a tie.",
+      "Haeyoung2 is sitting in the house with wearing a tie."
+    ],
+    "q_level_logic": 2,
+    "qid": 9925953,
+    "shot_contained": [
+      336
+    ],
+    "q_level_mem": 2,
+    "que": "Where Haeyoung2 sitting with wearing a tie?",
+    "vid": "AnotherMissOh14_010_0336",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is eating in the bathroom.",
+      "Haeyoung1 is eating in the cafe.",
+      "Haeyoung1 is eating in the kitchen.",
+      "Haeyoung1 is eating in the car.",
+      "Haeyoung1 is eating in the office."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951825,
+    "shot_contained": [
+      371
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 eating?",
+    "vid": "AnotherMissOh14_011_0371",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is sitting in the restroom with wearing glasses.",
+      "Haeyoung1 is sitting in the garden with wearing glasses.",
+      "Haeyoung1 is sitting in the cafe with wearing glasses.",
+      "Haeyoung1 is sitting in the kitchen with wearing glasses.",
+      "Haeyoung1 is sitting in the office with wearing glasses."
+    ],
+    "q_level_logic": 2,
+    "qid": 9961705,
+    "shot_contained": [
+      381
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 sitting with wearing glasses?",
+    "vid": "AnotherMissOh14_011_0381",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is sitting in the office.",
+      "Haeyoung1 is sitting in the cafe.",
+      "Haeyoung1 is sitting in restaurant.",
+      "Haeyoung1 is sitting in the car.",
+      "Haeyoung1 is sitting in the bathroom."
+    ],
+    "q_level_logic": 1,
+    "qid": 9960595,
+    "shot_contained": [
+      423
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 is sitting?",
+    "vid": "AnotherMissOh14_012_0423",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung2 is looking up.",
+      "Haeyoung2 is looking at the front.",
+      "Haeyoung2 is looking down.",
+      "Haeyoung2 is looking her side.",
+      "Haeyoung2 is looking back."
+    ],
+    "q_level_logic": 1,
+    "qid": 9927115,
+    "shot_contained": [
+      425
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 looking at?",
+    "vid": "AnotherMissOh14_012_0425",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Anna is doing her job in the restaurant.",
+      "Anna is doing her job in the bathroom.",
+      "Anna is doing her job in the living room.",
+      "Anna is doing her job in the convenience store.",
+      "Anna is doing her job in the kitchen."
+    ],
+    "q_level_logic": 2,
+    "qid": 9960605,
+    "shot_contained": [
+      438
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Anna doing her job next to Hun?",
+    "vid": "AnotherMissOh14_013_0438",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Anna is working at the hospital.",
+      "Anna is working at the library.",
+      "Anna is working at the amusement park.",
+      "Anna is working at restaurant.",
+      "Anna is working at a convenience store."
+    ],
+    "q_level_logic": 1,
+    "qid": 9927149,
+    "shot_contained": [
+      439
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Anna working?",
+    "vid": "AnotherMissOh14_013_0439",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Anna is working at the cafe while standing next to Hun.",
+      "Anna is working at the restaurant while standing next to Hun.",
+      "Anna is working at the convenience store while standing next to Hun.",
+      "Anna is working at the gas station while standing next to Hun.",
+      "Anna is working at the pharmacy while standing next to Hun."
+    ],
+    "q_level_logic": 2,
+    "qid": 9927189,
+    "shot_contained": [
+      441
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Anna working while standing next to Hun?",
+    "vid": "AnotherMissOh14_013_0441",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is talking on the phone in the restaurant.",
+      "Haeyoung1 is talking on the phone in the office.",
+      "Haeyoung1 is talking on the phone in the living room.",
+      "Haeyoung1 is talking on the phone in the kitchen.",
+      "Haeyoung1 is talking on the phone in the car."
+    ],
+    "q_level_logic": 1,
+    "qid": 9960633,
+    "shot_contained": [
+      495
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 talking on the phone?",
+    "vid": "AnotherMissOh14_015_0495",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 and Sungjin are sitting in the restroom while eating snack.",
+      "Haeyoung1 and Sungjin are sitting in the pool while eating snack.",
+      "Haeyoung1 and Sungjin are sitting in the amusement park while eating snack.",
+      "Haeyoung1 and Sungjin are sitting in the refreshment room while eating snack.",
+      "Haeyoung1 and Sungjin are sitting in the forest while eating snack."
+    ],
+    "q_level_logic": 2,
+    "qid": 9933507,
+    "shot_contained": [
+      528
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Haeyoung1 and Sungjin sitting while eating snack?",
+    "vid": "AnotherMissOh14_017_0528",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sangseok is sitting in the classroom wearing a short-sleeved shirt.",
+      "Sangseok is sitting in the bus wearing a short-sleeved shirt.",
+      "Sangseok is sitting in the car wearing a short-sleeved shirt.",
+      "Sangseok is sitting in the museum wearing a short-sleeved shirt.",
+      "Sangseok is sitting in the subway wearing a short-sleeved shirt."
+    ],
+    "q_level_logic": 2,
+    "qid": 9933539,
+    "shot_contained": [
+      598
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sangseok sitting wearing a short-sleeved shirt?",
+    "vid": "AnotherMissOh14_018_0598",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is standing in the room with wearing a white cardigan.",
+      "Dokyung is standing in the subway with wearing a white cardigan.",
+      "Dokyung is standing in the toilet with wearing a white cardigan.",
+      "Dokyung is standing in the field of reeds with wearing a white cardigan.",
+      "Dokyung is standing in the elevator with wearing a white cardigan."
+    ],
+    "q_level_logic": 2,
+    "qid": 9933701,
+    "shot_contained": [
+      630
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung standing with wearing a white cardigan?",
+    "vid": "AnotherMissOh14_019_0630",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is touching her knees.",
+      "Haeyoung1 is touching her forehead.",
+      "Haeyoung1 is touching her eye.",
+      "Haeyoung1 is touching her foot.",
+      "Haeyoung1 is touching her belly."
+    ],
+    "q_level_logic": 1,
+    "qid": 9933791,
+    "shot_contained": [
+      654
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 touching?",
+    "vid": "AnotherMissOh14_019_0654",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is walking and hugging Haeyoung1 in front of the river.",
+      "Dokyung is walking and hugging Haeyoung1 in front of the building.",
+      "Dokyung is walking and hugging Haeyoung1 in front of the car.",
+      "Dokyung is walking and hugging Haeyoung1 in the office.",
+      "Dokyung is walking and hugging Haeyoung1 at the cafe."
+    ],
+    "q_level_logic": 2,
+    "qid": 9960863,
+    "shot_contained": [
+      667
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung walking and hugging Haeyoung1?",
+    "vid": "AnotherMissOh14_019_0667",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Taejin is sitting on a table in the office.",
+      "Taejin is sitting on a sofa in the office.",
+      "Taejin is sitting on a desk in the office.",
+      "Taejin is sitting on a bed in the office.",
+      "Taejin is sitting on the floor in the office."
+    ],
+    "q_level_logic": 2,
+    "qid": 9933883,
+    "shot_contained": [
+      682
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Taejin sitting in the office?",
+    "vid": "AnotherMissOh14_020_0682",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sungjin is holding the phone in the restaurant with coworkers.",
+      "Sungjin is holding the phone in the cafe with coworkers.",
+      "Sungjin is holding the phone in the office with coworkers.",
+      "Sungjin is holding the phone in the house with coworkers.",
+      "Sungjin is holding the phone in the library with coworkers."
+    ],
+    "q_level_logic": 2,
+    "qid": 9948684,
+    "shot_contained": [
+      714
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sungjin holding the phone with coworkers?",
+    "vid": "AnotherMissOh14_021_0714",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is lying in the car with wearing a white T-shirt.",
+      "Dokyung is lying in the room with wearing a white T-shirt.",
+      "Dokyung is lying in the hospital with wearing a white T-shirt.",
+      "Dokyung is lying in the reeds with wearing a white T-shirt.",
+      "Dokyung is lying in the toilet with wearing a white T-shirt."
+    ],
+    "q_level_logic": 2,
+    "qid": 9934381,
+    "shot_contained": [
+      808
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung lying with wearing a white T-shirt?",
+    "vid": "AnotherMissOh14_023_0808",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is standing next to Haeyoung1 in the reeds.",
+      "Dokyung is standing next to Haeyoung1 at the beach.",
+      "Dokyung is standing next to Haeyoung1 in the room.",
+      "Dokyung is standing next to Haeyoung1 on the road.",
+      "Dokyung is standing next to Haeyoung1 in the tent."
+    ],
+    "q_level_logic": 2,
+    "qid": 9934453,
+    "shot_contained": [
+      829
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung standing next to Haeyoung1?",
+    "vid": "AnotherMissOh14_023_0829",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sangseok is standing in the house.",
+      "Sangseok is standing in the cafe.",
+      "Sangseok is standing in the police station.",
+      "Sangseok is standing in the kitchen.",
+      "Sangseok is standing in the restaurant."
+    ],
+    "q_level_logic": 1,
+    "qid": 9960915,
+    "shot_contained": [
+      833
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sangseok standing?",
+    "vid": "AnotherMissOh14_024_0833",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is in the restaurant.",
+      "Haeyoung1 is in the office.",
+      "Haeyoung1 is in the car.",
+      "Haeyoung1 is in the subway.",
+      "Haeyoung1 is in the house."
+    ],
+    "q_level_logic": 1,
+    "qid": 9960935,
+    "shot_contained": [
+      845
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1?",
+    "vid": "AnotherMissOh14_024_0845",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Deogi wearing a pink shirt is standing behind Dokyung.",
+      "Anna wearing a pink shirt is standing behind Dokyung.",
+      "Haeyoung1 wearing a pink shirt is standing behind Dokyung.",
+      "Jiya wearing a pink shirt is standing behind Dokyung.",
+      "Seohee wearing a pink shirt is standing behind Dokyung."
+    ],
+    "q_level_logic": 2,
+    "qid": 9934683,
+    "shot_contained": [
+      870
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 with wearing a pink shirt standing?",
+    "vid": "AnotherMissOh14_024_0870",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang is eating in the restaurant.",
+      "Jinsang is eating in the office.",
+      "Jinsang is eating in the house.",
+      "Jinsang is eating in the garage.",
+      "Jinsang is eating in the parking lot."
+    ],
+    "q_level_logic": 1,
+    "qid": 9948797,
+    "shot_contained": [
+      874
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jinsang eating?",
+    "vid": "AnotherMissOh14_025_0874",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang with wearing a suit is standing next to trees.",
+      "Jinsang with wearing a suit is standing in front of the river.",
+      "Jinsang with wearing a suit is standing on the bed.",
+      "Jinsang with wearing a suit is standing in the elevator.",
+      "Jinsang with wearing a suit is standing behind the women."
+    ],
+    "q_level_logic": 2,
+    "qid": 9934943,
+    "shot_contained": [
+      927
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jinsang standing with wearing a suit?",
+    "vid": "AnotherMissOh14_026_0927",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang is standing near Sukyung at the beach.",
+      "Jinsang is standing near Sukyung in the room.",
+      "Jinsang is standing near Sukyung in the cafe.",
+      "Jinsang is standing near Sukyung in the alley.",
+      "Jinsang is standing near Sukyung in the garden."
+    ],
+    "q_level_logic": 2,
+    "qid": 9935047,
+    "shot_contained": [
+      959
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jinsang standing near Sukyung?",
+    "vid": "AnotherMissOh14_026_0959",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang is standing in front of the office with a cell phone.",
+      "Jinsang is standing in front of the restaurant with a cell phone.",
+      "Jinsang is standing in front of the restroom with a cell phone.",
+      "Jinsang is standing in front of the car with a cell phone.",
+      "Jinsang is standing in front of the cafe with a cell phone."
+    ],
+    "q_level_logic": 2,
+    "qid": 9961173,
+    "shot_contained": [
+      983
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jinsang standing with holding a cell phone?",
+    "vid": "AnotherMissOh14_028_0983",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung and Jinsang are sitting on the floor and drinking beer.",
+      "Dokyung and Jinsang are sitting on the table and drinking beer.",
+      "Dokyung and Jinsang are sitting on the sofa and drinking beer.",
+      "Dokyung and Jinsang are sitting on the desk and drinking beer.",
+      "Dokyung and Jinsang are sitting on the street and drinking beer."
+    ],
+    "q_level_logic": 2,
+    "qid": 9948884,
+    "shot_contained": [
+      1078
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Dokyung and Jinsang sitting and drinking beer?",
+    "vid": "AnotherMissOh14_029_1078",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang is leaning his head against the door.",
+      "Jinsang is leaning his head against the sofa.",
+      "Jinsang is leaning his head against the chair.",
+      "Jinsang is leaning his head against the refrigerator.",
+      "Jinsang is leaning his head against the window."
+    ],
+    "q_level_logic": 1,
+    "qid": 9935681,
+    "shot_contained": [
+      1100
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jinsang leaning his head?",
+    "vid": "AnotherMissOh14_030_1100",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 and Taejin are sitting in the office in front of cups.",
+      "Haeyoung1 and Taejin are sitting in the cafe in front of cups.",
+      "Haeyoung1 and Taejin are sitting in the living room in front of cups.",
+      "Haeyoung1 and Taejin are sitting in the restroom in front of cups.",
+      "Haeyoung1 and Taejin are sitting in the market in front of cups."
+    ],
+    "q_level_logic": 2,
+    "qid": 9945986,
+    "shot_contained": [
+      1115
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Haeyoung1 and Taejin sitting in front of cups?",
+    "vid": "AnotherMissOh14_032_1115",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "The handbag is hung on Heeran's shoulder.",
+      "The handbag is hung on Haeyoung2's shoulder.",
+      "The handbag is hung on Jiya's shoulder.",
+      "The handbag is hung on Seohee's shoulder.",
+      "The handbag is hung on Deogi's shoulder."
+    ],
+    "q_level_logic": 1,
+    "qid": 9935871,
+    "shot_contained": [
+      1152
+    ],
+    "q_level_mem": 2,
+    "que": "Where is the handbag?",
+    "vid": "AnotherMissOh14_033_1152",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is walking in the office with wearing a bag.",
+      "Haeyoung1 is walking in the living room with wearing a bag.",
+      "Haeyoung1 is walking on the street with wearing a bag.",
+      "Haeyoung1 is walking in the garden with wearing a bag.",
+      "Haeyoung1 is walking in the building with wearing a bag."
+    ],
+    "q_level_logic": 2,
+    "qid": 9948938,
+    "shot_contained": [
+      1159
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 walking with wearing a bag?",
+    "vid": "AnotherMissOh14_034_1159",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is lying on the sofa with crying.",
+      "Dokyung is lying on the table with crying.",
+      "Dokyung is lying on the couch with crying.",
+      "Dokyung is lying on the bed with crying.",
+      "Dokyung is lying on the street with crying."
+    ],
+    "q_level_logic": 2,
+    "qid": 9961407,
+    "shot_contained": [
+      1245
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung lying on while crying?",
+    "vid": "AnotherMissOh14_035_1245",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung and Haeyoung1 are in the room.",
+      "Dokyung and Haeyoung1 are on the street.",
+      "Dokyung and Haeyoung1 are in the car.",
+      "Dokyung and Haeyoung1 are in the sea.",
+      "Dokyung and Haeyoung1 are in the forest."
+    ],
+    "q_level_logic": 1,
+    "qid": 9936367,
+    "shot_contained": [
+      1274
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Dokyung and Haeyoung1?",
+    "vid": "AnotherMissOh14_036_1274",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is holding a steering wheel in the restaurant.",
+      "Dokyung is holding a steering wheel in the cafe.",
+      "Dokyung is holding a steering wheel in the car.",
+      "Dokyung is holding a steering wheel in the living room.",
+      "Dokyung is holding a steering wheel in the office."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951454,
+    "shot_contained": [
+      27
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung holding a steering wheel?",
+    "vid": "AnotherMissOh13_001_0027",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is sitting in the bench.",
+      "Dokyung is sitting in the car.",
+      "Dokyung is sitting in the library.",
+      "Dokyung is sitting on the beach.",
+      "Dokyung is sitting under the bridge."
+    ],
+    "q_level_logic": 1,
+    "qid": 9938459,
+    "shot_contained": [
+      46
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung sitting?",
+    "vid": "AnotherMissOh13_001_0046",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is sitting in the car.",
+      "Haeyoung1 is sitting on the beach.",
+      "Haeyoung1 is sitting on the bed.",
+      "Haeyoung1 is sitting under the desk.",
+      "Haeyoung1 is sitting in the hospital."
+    ],
+    "q_level_logic": 1,
+    "qid": 9938973,
+    "shot_contained": [
+      94
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 sitting?",
+    "vid": "AnotherMissOh13_004_0094",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is sitting in the trunk.",
+      "Haeyoung1 is sitting in the driver seat.",
+      "Haeyoung1 is sitting in the roof top seat.",
+      "Haeyoung1 is sitting in the floor.",
+      "Haeyoung1 is sitting in the passenger seat."
+    ],
+    "q_level_logic": 1,
+    "qid": 9939009,
+    "shot_contained": [
+      111
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 sitting?",
+    "vid": "AnotherMissOh13_004_0111",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is sitting in the hospital.",
+      "Haeyoung1 is sitting in the living room.",
+      "Haeyoung1 is sitting in the toilet.",
+      "Haeyoung1 is sitting in the red car.",
+      "Haeyoung1 is sitting in the library."
+    ],
+    "q_level_logic": 1,
+    "qid": 9939043,
+    "shot_contained": [
+      131
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 sitting in?",
+    "vid": "AnotherMissOh13_004_0131",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 and Heeran are walking in the hospital.",
+      "Haeyoung1 and Heeran are walking in the school.",
+      "Haeyoung1 and Heeran are walking in the playground.",
+      "Haeyoung1 and Heeran are walking on the beach.",
+      "Haeyoung1 and Heeran are walking in the park."
+    ],
+    "q_level_logic": 1,
+    "qid": 9939115,
+    "shot_contained": [
+      147
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Haeyoung1 and Heeran walking?",
+    "vid": "AnotherMissOh13_005_0147",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is running toward the rest room in the park.",
+      "Haeyoung1 is running toward the entrance in the park.",
+      "Haeyoung1 is running toward the fountain in the park.",
+      "Haeyoung1 is running toward the ticket office in the park.",
+      "Haeyoung1 is running toward the statue in the park."
+    ],
+    "q_level_logic": 2,
+    "qid": 9951509,
+    "shot_contained": [
+      172
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 running toward in the park?",
+    "vid": "AnotherMissOh13_005_0172",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Water is coming out from the fountain.",
+      "Water is coming out from a cup.",
+      "Water is coming out from a computer.",
+      "Water is coming out from a book.",
+      "Water is coming out from a microphone."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951510,
+    "shot_contained": [
+      172
+    ],
+    "q_level_mem": 2,
+    "que": "Where is water coming out?",
+    "vid": "AnotherMissOh13_005_0172",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Kyungsu is walking around the museum in front of Deogi.",
+      "Kyungsu is walking around the living room in front of Deogi.",
+      "Kyungsu is walking around the cafe in front of Deogi.",
+      "Kyungsu is walking around the park in front of Deogi.",
+      "Kyungsu is walking around the beach in front of Deogi."
+    ],
+    "q_level_logic": 2,
+    "qid": 9958775,
+    "shot_contained": [
+      240
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Kyungsu walking around in front of Deogi?",
+    "vid": "AnotherMissOh13_006_0240",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is standing on the beach.",
+      "Dokyung is standing under the bridge.",
+      "Dokyung is standing near the table.",
+      "Dokyung is standing between Sukyung and Jinsang.",
+      "Dokyung is standing in front of the door."
+    ],
+    "q_level_logic": 1,
+    "qid": 9940151,
+    "shot_contained": [
+      412
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung standing?",
+    "vid": "AnotherMissOh13_010_0412",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is standing on the beach.",
+      "Dokyung is standing at the street.",
+      "Dokyung is standing in the kitchen.",
+      "Dokyung is standing in the hospital.",
+      "Dokyung is standing in the library."
+    ],
+    "q_level_logic": 1,
+    "qid": 9940211,
+    "shot_contained": [
+      420
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung standing?",
+    "vid": "AnotherMissOh13_010_0420",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jiya is standing in the hospital.",
+      "Jiya is standing on the beach.",
+      "Jiya is standing in the woods.",
+      "Jiya is standing in the office.",
+      "Jiya is standing in the kitchen."
+    ],
+    "q_level_logic": 1,
+    "qid": 9940229,
+    "shot_contained": [
+      424
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jiya standing?",
+    "vid": "AnotherMissOh13_011_0424",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is sitting on the beach.",
+      "Dokyung is sitting in the kitchen.",
+      "Dokyung is sitting on the street.",
+      "Dokyung is sitting in the woods.",
+      "Dokyung is sitting in the hospital."
+    ],
+    "q_level_logic": 1,
+    "qid": 9940353,
+    "shot_contained": [
+      441
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung sitting?",
+    "vid": "AnotherMissOh13_011_0441",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is walking on the bridge.",
+      "Dokyung is walking in the hospital.",
+      "Dokyung is walking at the street.",
+      "Dokyung is walking on the beach.",
+      "Dokyung is walking in the office."
+    ],
+    "q_level_logic": 1,
+    "qid": 9940403,
+    "shot_contained": [
+      458
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung walking?",
+    "vid": "AnotherMissOh13_011_0458",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is walking on the beach.",
+      "Haeyoung1 is walking along the riverside.",
+      "Haeyoung1 is walking around her room.",
+      "Haeyoung1 is walking down on the stairs.",
+      "Haeyoung1 is walking at the street."
+    ],
+    "q_level_logic": 1,
+    "qid": 9940413,
+    "shot_contained": [
+      466
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 walking?",
+    "vid": "AnotherMissOh13_012_0466",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is standing on the beach.",
+      "Dokyung is standing at the street.",
+      "Dokyung is standing in front of the door.",
+      "Dokyung is standing under the roof.",
+      "Dokyung is standing in the hospital."
+    ],
+    "q_level_logic": 1,
+    "qid": 9940425,
+    "shot_contained": [
+      468
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung standing?",
+    "vid": "AnotherMissOh13_012_0468",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is sitting in the hospital.",
+      "Sukyung is sitting in her office.",
+      "Sukyung is sitting on the beach.",
+      "Sukyung is sitting in the woods.",
+      "Sukyung is sitting on the roof top."
+    ],
+    "q_level_logic": 1,
+    "qid": 9940481,
+    "shot_contained": [
+      493
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung sitting?",
+    "vid": "AnotherMissOh13_015_0493",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is standing in front of Sukyung in Sukyung's office.",
+      "Haeyoung1 is standing in front of Sukyung on the beach.",
+      "Haeyoung1 is standing in front of Sukyung at the library.",
+      "Haeyoung1 is standing in front of Sukyung in the restaurant.",
+      "Haeyoung1 is standing in front of Sukyung in living room."
+    ],
+    "q_level_logic": 2,
+    "qid": 9958953,
+    "shot_contained": [
+      494
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 standing in front of Sukyung?",
+    "vid": "AnotherMissOh13_015_0494",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung2 is sitting in the kitchen.",
+      "Haeyoung2 is sitting on the beach.",
+      "Haeyoung2 is sitting in the hospital.",
+      "Haeyoung2 is sitting in the library.",
+      "Haeyoung2 is sitting in the swimming pool."
+    ],
+    "q_level_logic": 1,
+    "qid": 9940971,
+    "shot_contained": [
+      603
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung2 sitting?",
+    "vid": "AnotherMissOh13_016_0603",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Anna is standing on the beach.",
+      "Anna is standing in the hospital.",
+      "Anna is standing in the kitchen.",
+      "Anna is standing in the swimming pool.",
+      "Anna is standing in the bathroom."
+    ],
+    "q_level_logic": 1,
+    "qid": 9941011,
+    "shot_contained": [
+      618
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Anna standing?",
+    "vid": "AnotherMissOh13_018_0618",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "The cup of coffee is in the restaurant.",
+      "The cup of coffee is in the cafe.",
+      "The cup of coffee is in the house.",
+      "The cup of coffee is in office.",
+      "The cup of coffee is in the bathroom."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951716,
+    "shot_contained": [
+      636
+    ],
+    "q_level_mem": 2,
+    "que": "Where is the cup of coffee?",
+    "vid": "AnotherMissOh13_019_0636",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Heeran is sitting in the swimming pool.",
+      "Heeran is sitting in the hospital.",
+      "Heeran is sitting on the beach.",
+      "Heeran is sitting in the cafe.",
+      "Heeran is sitting on the roof top."
+    ],
+    "q_level_logic": 1,
+    "qid": 9941227,
+    "shot_contained": [
+      643
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Heeran sitting in?",
+    "vid": "AnotherMissOh13_019_0643",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Hun is sitting on an elephant.",
+      "Hun is sitting on the stair.",
+      "Hun is sitting on a book.",
+      "Hun is sitting on the bridge.",
+      "Hun is sitting on a chair."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951724,
+    "shot_contained": [
+      643
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Hun sitting?",
+    "vid": "AnotherMissOh13_019_0643",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Hun is sitting behind Haeyoung1.",
+      "Hun is sitting next to Dokyung.",
+      "Hun is sitting under the bridge.",
+      "Hun is sitting on the beach.",
+      "Hun is sitting in front of Heeran."
+    ],
+    "q_level_logic": 1,
+    "qid": 9941233,
+    "shot_contained": [
+      648
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Hun sitting?",
+    "vid": "AnotherMissOh13_019_0648",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is getting off the train.",
+      "Sukyung is getting off the air plane.",
+      "Sukyung is getting off the roller coaster.",
+      "Sukyung is getting off the horse.",
+      "Sukyung is getting off the bus."
+    ],
+    "q_level_logic": 1,
+    "qid": 9941339,
+    "shot_contained": [
+      682
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung getting off?",
+    "vid": "AnotherMissOh13_020_0682",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is exiting the park.",
+      "Sukyung is exiting the bus via the rear door.",
+      "Sukyung is exiting the house.",
+      "Sukyung is exiting the department.",
+      "Sukyung is exiting the restaurant."
+    ],
+    "q_level_logic": 1,
+    "qid": 9945608,
+    "shot_contained": [
+      682
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung exiting from?",
+    "vid": "AnotherMissOh13_020_0682",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is sitting on the beach.",
+      "Sukyung is sitting in the hospital.",
+      "Sukyung is sitting under the bridge.",
+      "Sukyung is sitting in the cafe.",
+      "Sukyung is sitting in front of the swimming pool."
+    ],
+    "q_level_logic": 1,
+    "qid": 9941385,
+    "shot_contained": [
+      736
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung sitting in?",
+    "vid": "AnotherMissOh13_021_0736",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang is sitting on the beach.",
+      "Jinsang is sitting in the hospital.",
+      "Jinsang is sitting in the swimming pool.",
+      "Jinsang is sitting in the kitchen.",
+      "Jinsang is sitting in the pub."
+    ],
+    "q_level_logic": 1,
+    "qid": 9941517,
+    "shot_contained": [
+      755
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jinsang sitting?",
+    "vid": "AnotherMissOh13_021_0755",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is standing on the beach.",
+      "Dokyung is standing in the kitchen.",
+      "Dokyung is standing next to Haeyoung1.",
+      "Dokyung is standing in the swimming pool.",
+      "Dokyung is standing in the wedding hall."
+    ],
+    "q_level_logic": 1,
+    "qid": 9941667,
+    "shot_contained": [
+      810
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung standing?",
+    "vid": "AnotherMissOh13_023_0810",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is walking on the beach.",
+      "Haeyoung1 is walking at the street.",
+      "Haeyoung1 is walking around her room.",
+      "Haeyoung1 is walking up on the stairs.",
+      "Haeyoung1 is walking through the woods."
+    ],
+    "q_level_logic": 1,
+    "qid": 9941775,
+    "shot_contained": [
+      859
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 walking?",
+    "vid": "AnotherMissOh13_024_0859",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is standing on the street.",
+      "Haeyoung1 is standing on the beach.",
+      "Haeyoung1 is standing in the hospital.",
+      "Haeyoung1 is standing in the woods.",
+      "Haeyoung1 is standing on the stage."
+    ],
+    "q_level_logic": 1,
+    "qid": 9941893,
+    "shot_contained": [
+      885
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 standing?",
+    "vid": "AnotherMissOh13_024_0885",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is sitting on the beach.",
+      "Haeyoung1 is sitting in the library.",
+      "Haeyoung1 is sitting in the hospital.",
+      "Haeyoung1 is sitting in the restaurant.",
+      "Haeyoung1 is sitting in her room."
+    ],
+    "q_level_logic": 1,
+    "qid": 9941897,
+    "shot_contained": [
+      886
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 sitting?",
+    "vid": "AnotherMissOh13_025_0886",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Taejin is sitting behind Dokyung and Haeyoung1.",
+      "Taejin is sitting under the bridge.",
+      "Taejin is sitting in the swimming pool.",
+      "Taejin is sitting on the bed.",
+      "Taejin is sitting opposite Haeyoung1."
+    ],
+    "q_level_logic": 1,
+    "qid": 9941957,
+    "shot_contained": [
+      900
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Taejin sitting?",
+    "vid": "AnotherMissOh13_025_0900",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "The fridge is located in the office.",
+      "The fridge is located in the kitchen.",
+      "The fridge is located in the cafe.",
+      "The fridge is located in the living room.",
+      "The fridge is located in the bathroom."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951754,
+    "shot_contained": [
+      936
+    ],
+    "q_level_mem": 2,
+    "que": "Where is the fridge located?",
+    "vid": "AnotherMissOh13_026_0936",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is sitting on the beach.",
+      "Haeyoung1 is sitting in front of the shoe rack.",
+      "Haeyoung1 is sitting behind the table.",
+      "Haeyoung1 is sitting on the bed.",
+      "Haeyoung1 is sitting in the woods."
+    ],
+    "q_level_logic": 1,
+    "qid": 9942253,
+    "shot_contained": [
+      962
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 sitting?",
+    "vid": "AnotherMissOh13_028_0962",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is sitting in the hospital.",
+      "Haeyoung1 is sitting on the beach.",
+      "Haeyoung1 is sitting in the library.",
+      "Haeyoung1 is sitting on her bed.",
+      "Haeyoung1 is sitting in the bus."
+    ],
+    "q_level_logic": 1,
+    "qid": 9942283,
+    "shot_contained": [
+      980
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 sitting?",
+    "vid": "AnotherMissOh13_029_0980",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sangseok is walking with Dokyung in the library.",
+      "Sangseok is walking with Dokyung in the hospital.",
+      "Sangseok is walking with Dokyung in the company.",
+      "Sangseok is walking with Dokyung in the ocean.",
+      "Sangseok is walking with Dokyung in the bathroom."
+    ],
+    "q_level_logic": 2,
+    "qid": 9959565,
+    "shot_contained": [
+      988
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sangseok walking with Dokyung?",
+    "vid": "AnotherMissOh13_030_0988",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Hun is sitting on the chair in the hospital.",
+      "Hun is sitting on the chair in the library.",
+      "Hun is sitting on the chair in the school.",
+      "Hun is sitting on the chair in the office.",
+      "Hun is sitting on the chair in the cafe."
+    ],
+    "q_level_logic": 2,
+    "qid": 9944905,
+    "shot_contained": [
+      1064
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Hun sitting on the chair in?",
+    "vid": "AnotherMissOh13_033_1064",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Heeran is putting her head on the book.",
+      "Heeran is putting her head on the computer.",
+      "Heeran is putting her head on the street.",
+      "Heeran is putting her head on the table.",
+      "Heeran is putting her head on the pillow."
+    ],
+    "q_level_logic": 1,
+    "qid": 9945100,
+    "shot_contained": [
+      1096
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Heeran putting her head?",
+    "vid": "AnotherMissOh13_034_1096",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Hun is sitting on the beach.",
+      "Hun is sitting next to Heeran.",
+      "Hun is sitting in the woods.",
+      "Hun is sitting in front of the laptop.",
+      "Hun is sitting on the bed."
+    ],
+    "q_level_logic": 1,
+    "qid": 9942983,
+    "shot_contained": [
+      1114
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Hun sitting?",
+    "vid": "AnotherMissOh13_034_1114",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is wearing a seat belt in the restaurant.",
+      "Haeyoung1 is wearing a seat belt in the cafe.",
+      "Haeyoung1 is wearing a seat belt in the car.",
+      "Haeyoung1 is wearing a seat belt in the office.",
+      "Haeyoung1 is wearing a seat belt in the bathroom."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951812,
+    "shot_contained": [
+      1185
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 wearing a seat belt?",
+    "vid": "AnotherMissOh13_036_1185",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is walking in the office.",
+      "Haeyoung1 is walking in the cafe.",
+      "Haeyoung1 is walking on the street.",
+      "Haeyoung1 is walking in the room.",
+      "Haeyoung1 is walking on the table."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951816,
+    "shot_contained": [
+      1198
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 walking?",
+    "vid": "AnotherMissOh13_037_1198",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is sitting on a chair.",
+      "Dokyung is sitting on the floor.",
+      "Dokyung is sitting on the street.",
+      "Dokyung is sitting on the sofa.",
+      "Dokyung is sitting on the couch."
+    ],
+    "q_level_logic": 1,
+    "qid": 9951872,
+    "shot_contained": [
+      1274
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung sitting?",
+    "vid": "AnotherMissOh13_038_1274",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung lifts his eyes up to Haeyoung1.",
+      "Dokyung lifts his eyes up to Haeyoung2.",
+      "Dokyung lifts his eyes up to Jinsang.",
+      "Dokyung lifts his eyes to Deogi.",
+      "Dokyung lifts his eyes to Seohee."
+    ],
+    "q_level_logic": 1,
+    "qid": 9921725,
+    "shot_contained": [
+      86
+    ],
+    "q_level_mem": 2,
+    "que": "Where does Dokyung lift up his eyes to?",
+    "vid": "AnotherMissOh15_003_0086",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang gets into the swimming pool.",
+      "Jinsang gets into the pub.",
+      "Jinsang gets into the car.",
+      "Jinsang gets into the studio.",
+      "Jinsang gets into the shopping mall."
+    ],
+    "q_level_logic": 1,
+    "qid": 9920675,
+    "shot_contained": [
+      87
+    ],
+    "q_level_mem": 2,
+    "que": "Where does Jinsang get into?",
+    "vid": "AnotherMissOh15_003_0087",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is sitting on the street.",
+      "Dokyung is sitting on the book.",
+      "Dokyung is sitting on the table.",
+      "Dokyung is sitting on a chair.",
+      "Dokyung is sitting on the cup."
+    ],
+    "q_level_logic": 1,
+    "qid": 9952010,
+    "shot_contained": [
+      110
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung sitting on?",
+    "vid": "AnotherMissOh15_004_0110",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Soontack and a person are in the conference room.",
+      "Soontack and a person are having a conversation on the couch in the room.",
+      "Soontack and a person are in the kitchen.",
+      "Soontack and a person are in the hallway.",
+      "Soontack and a person are on a street."
+    ],
+    "q_level_logic": 1,
+    "qid": 9921873,
+    "shot_contained": [
+      156
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Soontack and a person having a conversation?",
+    "vid": "AnotherMissOh15_004_0156",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang is lying on the street.",
+      "Jinsang is lying on the car.",
+      "Jinsang is lying on the chair.",
+      "Jinsang is lying on the bed.",
+      "Jinsang is lying on the book."
+    ],
+    "q_level_logic": 1,
+    "qid": 9952062,
+    "shot_contained": [
+      165
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jinsang lying?",
+    "vid": "AnotherMissOh15_006_0165",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang and Hun are gathering in the kitchen.",
+      "Jinsang and Hun are gathering in the office.",
+      "Jinsang and Hun are gathering in the restaurant.",
+      "Jinsang and Hun are gathering in the living room.",
+      "Jinsang and Hun are gathering in the cafe."
+    ],
+    "q_level_logic": 1,
+    "qid": 9952070,
+    "shot_contained": [
+      178
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Jinsang and Hun gathering?",
+    "vid": "AnotherMissOh15_006_0178",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is pointing her bat down to Jinsang.",
+      "Sukyung is pointing her bat down to Haeyoung1.",
+      "Sukyung is pointing her bat down to Haeyoung2.",
+      "Sukyung is pointing her bat down to Gitae's pants.",
+      "Sukyung is pointing her bat down to Hun."
+    ],
+    "q_level_logic": 1,
+    "qid": 9921985,
+    "shot_contained": [
+      199
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung pointing down to her bat?",
+    "vid": "AnotherMissOh15_006_0199",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is about to put the cherry tomato into his ear.",
+      "Sukyung is about to put the cherry tomato on his head.",
+      "Sukyung is about to put the cherry tomato into his mouth.",
+      "Sukyung is about to put the cherry tomato on his hand.",
+      "Sukyung is about to put the cherry tomato under his feet."
+    ],
+    "q_level_logic": 1,
+    "qid": 9922155,
+    "shot_contained": [
+      217
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung about to put the cherry tomato?",
+    "vid": "AnotherMissOh15_006_0217",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang is sobbing in the kitchen.",
+      "Jinsang is sobbing in the bathroom.",
+      "Jinsang is sobbing in his bed.",
+      "Jinsang is sobbing in the living room.",
+      "Jinsang is sobbing in the dinning room."
+    ],
+    "q_level_logic": 1,
+    "qid": 9922217,
+    "shot_contained": [
+      222
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jinsang sobbing?",
+    "vid": "AnotherMissOh15_006_0222",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Hun and Jinsang are in the bathroom.",
+      " Hun and Jinsang are in the living room.",
+      "Hun and Jinsang are in Jinsang's room.",
+      "Hun and Jinsang are in the kitchen.",
+      "Hun and Jinsang are in the back yard."
+    ],
+    "q_level_logic": 1,
+    "qid": 9922323,
+    "shot_contained": [
+      225
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Hun and Jinsang?",
+    "vid": "AnotherMissOh15_007_0225",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang is resting his head on his pillow.",
+      "Jinsang is resting his head on Hun's arms.",
+      "Jinsang is resting his head on Hun's shoulder.",
+      "Jinsang is resting his head on his hand.",
+      "Jinsang is resting his head on Hun's leg."
+    ],
+    "q_level_logic": 1,
+    "qid": 9922355,
+    "shot_contained": [
+      227
+    ],
+    "q_level_mem": 2,
+    "que": "Where does Jinsang rest his head on?",
+    "vid": "AnotherMissOh15_007_0227",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang and Hun were on a couch before Sukyung came to the room.",
+      "Jinsang and Hun were on the bed before Sukyung came to the room.",
+      "Jinsang and Hun were on the table before Sukyung came to the room.",
+      "Jinsang and Hun were on the floor before Sukyung came to the room.",
+      "Jinsang and Hun were on the chair before Sukyung came to the room."
+    ],
+    "q_level_logic": 2,
+    "qid": 9922725,
+    "shot_contained": [
+      259
+    ],
+    "q_level_mem": 2,
+    "que": "Where were Jinsang and Hun before Sukyung came to the room?",
+    "vid": "AnotherMissOh15_007_0259",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Her bat is rested on the bed while Sukyung is talking to Jinsang.",
+      "Her bat is rested on the floor while Sukyung is talking to Jinsang.",
+      "Her bat is rested on her right shoulder while Sukyung is talking to Jinsang.",
+      "Her bat is rested on her head while Sukyung is talking to Jinsang.",
+      "Her bat is rested on her left shoulder while Sukyung is talking to Jinsang."
+    ],
+    "q_level_logic": 2,
+    "qid": 9922809,
+    "shot_contained": [
+      264
+    ],
+    "q_level_mem": 2,
+    "que": "Where is her bat while Sukyung is talking to Jinsang?",
+    "vid": "AnotherMissOh15_007_0264",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Hun is standing right behind Sukyung.",
+      "Hun is standing right next to Jinsang.",
+      "Hun is standing behind the closet.",
+      "Hun is standing behind the door.",
+      "Hun is standing in front of the door."
+    ],
+    "q_level_logic": 1,
+    "qid": 9922873,
+    "shot_contained": [
+      268
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Hun standing?",
+    "vid": "AnotherMissOh15_007_0268",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "The bat is pointed at Haeyoung1.",
+      "The bat is pointed at Haeyoung2.",
+      "The bat is pointed at Anna.",
+      "The bat is pointed at Jinsang.",
+      "The bat is pointed at Hun."
+    ],
+    "q_level_logic": 1,
+    "qid": 9922927,
+    "shot_contained": [
+      271
+    ],
+    "q_level_mem": 2,
+    "que": "Where is the bat pointed at?",
+    "vid": "AnotherMissOh15_007_0271",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "The closet is located in the room.",
+      "The closet is located in the kitchen.",
+      "The closet is located in the living room.",
+      "The closet is located in the office.",
+      "The closet is located in the cafe."
+    ],
+    "q_level_logic": 1,
+    "qid": 9952104,
+    "shot_contained": [
+      273
+    ],
+    "q_level_mem": 2,
+    "que": "Where is the closet located?",
+    "vid": "AnotherMissOh15_007_0273",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is saying that Jinsang can't escape this swimming pool.",
+      "Sukyung is saying that Jinsang can't escape this hospital.",
+      "Sukyung is saying that Jinsang can't escape this school.",
+      "Sukyung is saying that Jinsang can't escape this room.",
+      "Sukyung is saying that Jinsang can't escape this office."
+    ],
+    "q_level_logic": 2,
+    "qid": 9922937,
+    "shot_contained": [
+      274
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung saying that Jinsang can't escape?",
+    "vid": "AnotherMissOh15_007_0274",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang sits on his chair.",
+      "Jinsang sits on his couch.",
+      "Jinsang sits on his bed.",
+      "Jinsang sits on his table.",
+      "Jinsang sits on his desk."
+    ],
+    "q_level_logic": 1,
+    "qid": 9922975,
+    "shot_contained": [
+      290
+    ],
+    "q_level_mem": 2,
+    "que": "Where does Jinsang sit on?",
+    "vid": "AnotherMissOh15_007_0290",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is sitting right next to Jinsang.",
+      "Sukyung is inside the closet.",
+      "Sukyung is sitting in front of the mirror.",
+      "Sukyung is on the bed.",
+      "Sukyung is sitting on the floor."
+    ],
+    "q_level_logic": 1,
+    "qid": 9923203,
+    "shot_contained": [
+      302
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung talking to Jinsang?",
+    "vid": "AnotherMissOh15_008_0302",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung moves her eyesight to Hun.",
+      "Sukyung moves her eyesight to Haeyoung1.",
+      "Sukyung moves her eyesight to Haeyoung2.",
+      "Sukyung moves her eyesight to Soontack.",
+      "Sukyung moves her eyesight to Jinsang."
+    ],
+    "q_level_logic": 1,
+    "qid": 9923399,
+    "shot_contained": [
+      309
+    ],
+    "q_level_mem": 2,
+    "que": "Where does Sukyung her eyesight to?",
+    "vid": "AnotherMissOh15_008_0309",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is approaching to Jinsang in the library.",
+      "Sukyung is approaching to Jinsang in the swimming pool.",
+      "Sukyung is approaching to Jinsang in the hospital.",
+      "Sukyung is approaching to Jinsang in the bathroom.",
+      "Sukyung is approaching to Jinsang in the room."
+    ],
+    "q_level_logic": 2,
+    "qid": 9961601,
+    "shot_contained": [
+      314
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung approaching to Jinsang in?",
+    "vid": "AnotherMissOh15_008_0314",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Gitae and Sangseok are recording the sound of grinding chili peppers at the restaurant.",
+      "Gitae and Sangseok are recording the sound of grinding chili peppers at the church.",
+      "Gitae and Sangseok are recording the sound of grinding chili peppers at the school.",
+      "Gitae and Sangseok are recording the sound of grinding chili peppers at the cafe.",
+      "Gitae and Sangseok are recording the sound of grinding chili peppers at the mill."
+    ],
+    "q_level_logic": 2,
+    "qid": 9923863,
+    "shot_contained": [
+      336
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Gitae and Sangseok recording the sound of grinding chili peppers?",
+    "vid": "AnotherMissOh15_009_0336",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is standing in the hospital while looking at the entrance.",
+      "Dokyung is standing in the swimming pool while looking at the entrance.",
+      "Dokyung is standing in front of the restaurant while looking at the entrance.",
+      "Dokyung is standing in the kitchen while looking at the entrance.",
+      "Dokyung is standing in the bathroom while looking at the entrance."
+    ],
+    "q_level_logic": 2,
+    "qid": 9961701,
+    "shot_contained": [
+      350
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung standing while looking at the entrance?",
+    "vid": "AnotherMissOh15_010_0350",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung walks up to the stair.",
+      "Dokyung walks up to the bathroom.",
+      "Dokyung walks up to the kitchen.",
+      "Dokyung walks up to the car.",
+      "Dokyung walks up to the book shelf."
+    ],
+    "q_level_logic": 1,
+    "qid": 9924383,
+    "shot_contained": [
+      358
+    ],
+    "q_level_mem": 2,
+    "que": "Where does Dokyung walk up to?",
+    "vid": "AnotherMissOh15_011_0358",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung can't take off his eyes from the cellphone.",
+      "Dokyung can't take off his eyes from the lap top computer.",
+      "Dokyung can't take off his eyes from the movie poster.",
+      "Dokyung can't take off his eyes from the report.",
+      "Dokyung can't take off his eyes from the photo book."
+    ],
+    "q_level_logic": 1,
+    "qid": 9924451,
+    "shot_contained": [
+      366
+    ],
+    "q_level_mem": 2,
+    "que": "Where can't Dokyung take off his eyes from?",
+    "vid": "AnotherMissOh15_011_0366",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung2 is sitting on the chair in the library.",
+      "Haeyoung2 is sitting on the chair in the cafe.",
+      "Haeyoung2 is sitting on the chair in the hospital.",
+      "Haeyoung2 is sitting on the chair in the office.",
+      "Haeyoung2 is sitting on the chair in the bathroom."
+    ],
+    "q_level_logic": 2,
+    "qid": 9924501,
+    "shot_contained": [
+      374
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung2 sitting on the chair?",
+    "vid": "AnotherMissOh15_012_0374",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung2 and a person have a conversation at a restaurant.",
+      "Haeyoung2 and a person have a conversation at a store.",
+      "Haeyoung2 and a person have a conversation at a coffee shop.",
+      "Haeyoung2 and a person have a conversation at a parking lot.",
+      "Haeyoung2 and a person have a conversation at a shopping mall."
+    ],
+    "q_level_logic": 1,
+    "qid": 9924543,
+    "shot_contained": [
+      376
+    ],
+    "q_level_mem": 2,
+    "que": "Where does Haeyoung2 and a person have a conversation?",
+    "vid": "AnotherMissOh15_012_0376",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Seohee is sitting next to her mother on a couch.",
+      "Seohee is sitting next to the big teddy bear on a couch.",
+      "Seohee is sitting next to her aunt on a couch.",
+      "Seohee is sitting next to Haeyoung1 on a couch.",
+      "Seohee is sitting next to her father on a couch."
+    ],
+    "q_level_logic": 1,
+    "qid": 9924667,
+    "shot_contained": [
+      412
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Seohee sending messages to Haeyoung1?",
+    "vid": "AnotherMissOh15_014_0412",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Deogi stands still right in front of Haeyoung2.",
+      "Deogi stands still right in front of Seohee.",
+      "Deogi stands still right in front of Haeyoung1.",
+      "Deogi stands still right in front of Jeongsuk.",
+      "Deogi stands still right in front of Dokyung."
+    ],
+    "q_level_logic": 1,
+    "qid": 9924887,
+    "shot_contained": [
+      436
+    ],
+    "q_level_mem": 2,
+    "que": "Where does Deogi stand still?",
+    "vid": "AnotherMissOh15_014_0436",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Deogi is standing in the hospital while talking to Haeyoung1.",
+      "Deogi is standing in the toilet while talking to Haeyoung1.",
+      "Deogi is standing in the swimming pool while talking to Haeyoung1.",
+      "Deogi is standing in the library while talking to Haeyoung1.",
+      "Deogi is standing in the room while talking to Haeyoung1."
+    ],
+    "q_level_logic": 2,
+    "qid": 9924907,
+    "shot_contained": [
+      439
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Deogi standing while talking to Haeyoung1?",
+    "vid": "AnotherMissOh15_014_0439",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is sitting on the floor leaning on her bed.",
+      "Haeyoung1 is sitting on her bed.",
+      "Haeyoung1 is sitting on her couch.",
+      "Haeyoung1 is sitting on her chair.",
+      "Haeyoung1 is sitting on the table."
+    ],
+    "q_level_logic": 1,
+    "qid": 9925003,
+    "shot_contained": [
+      442
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 sitting?",
+    "vid": "AnotherMissOh15_014_0442",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Gitae is holding a steering wheel in the car.",
+      "Gitae is holding a steering wheel in the restaurant.",
+      "Gitae is holding a steering wheel in the cafe.",
+      "Gitae is holding a steering wheel in the living room.",
+      "Gitae is holding a steering wheel in the library."
+    ],
+    "q_level_logic": 1,
+    "qid": 9952154,
+    "shot_contained": [
+      447
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Gitae holding a steering wheel?",
+    "vid": "AnotherMissOh15_015_0447",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sangseok is wearing a seat belt in the car.",
+      "Sangseok is wearing a seat belt in the restaurant.",
+      "Sangseok is wearing a seat belt in the cafe.",
+      "Sangseok is wearing a seat belt in the living room.",
+      "Sangseok is wearing a seat belt in the bathroom."
+    ],
+    "q_level_logic": 1,
+    "qid": 9952156,
+    "shot_contained": [
+      450
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sangseok wearing a seat belt?",
+    "vid": "AnotherMissOh15_015_0450",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is turning back with a serious look in the hospital.",
+      "Dokyung is turning back with a serious look in the office.",
+      "Dokyung is turning back with a serious look in the library.",
+      "Dokyung is turning back with a serious look in the bathroom.",
+      "Dokyung is turning back with a serious look in the car."
+    ],
+    "q_level_logic": 2,
+    "qid": 9925527,
+    "shot_contained": [
+      452
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung turning back with a serious look?",
+    "vid": "AnotherMissOh15_015_0452",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Taejin is staggering along on the beach at night.",
+      "Taejin is staggering along in the park at night.",
+      "Taejin is staggering along on the bridge at night.",
+      "Taejin is staggering along in the museum at night.",
+      "Taejin is staggering along in the office at night."
+    ],
+    "q_level_logic": 2,
+    "qid": 9926023,
+    "shot_contained": [
+      494
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Taejin staggering along at night?",
+    "vid": "AnotherMissOh15_016_0494",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Deogi is talking in the room.",
+      "Deogi is talking in the swimming pool.",
+      "Deogi is talking in the park.",
+      "Deogi is talking in the kitchen.",
+      "Deogi is talking in the museum."
+    ],
+    "q_level_logic": 1,
+    "qid": 9926503,
+    "shot_contained": [
+      510
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Deogi talking?",
+    "vid": "AnotherMissOh15_017_0510",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung and Deogi are having a conversation at Deogi's house.",
+      "Dokyung and Deogi are having a conversation at Haeyoung1's house.",
+      "Dokyung and Deogi are having a conversation at Haeyoung2's house.",
+      "Dokyung and Deogi are having a conversation at Dokyung's house.",
+      "Dokyung and Deogi are having a conversation at Hun's house."
+    ],
+    "q_level_logic": 1,
+    "qid": 9926599,
+    "shot_contained": [
+      521
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Dokyung and Deogi having a conversation?",
+    "vid": "AnotherMissOh15_017_0521",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is sitting on the chair.",
+      "Dokyung is sitting on the couch.",
+      "Dokyung is sitting on the table.",
+      "Dokyung is sitting on the desk.",
+      "Dokyung is sitting on the floor."
+    ],
+    "q_level_logic": 1,
+    "qid": 9926815,
+    "shot_contained": [
+      535
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung sitting on?",
+    "vid": "AnotherMissOh15_018_0535",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung tells Haeyoung1 to meet at his house.",
+      "Dokyung tells Haeyoung1 to meet at his office.",
+      "Dokyung tells Haeyoung1 to meet at her house.",
+      "Dokyung tells Haeyoung1 to meet at her office.",
+      "Dokyung tells Haeyoung1 to meet at a restaurant."
+    ],
+    "q_level_logic": 2,
+    "qid": 9926889,
+    "shot_contained": [
+      546
+    ],
+    "q_level_mem": 2,
+    "que": "Where Dokyung tells Haeyoung1 to meet?",
+    "vid": "AnotherMissOh15_018_0546",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is holding up his phone onto the right side of his ear.",
+      "Dokyung is holding up his phone onto the floor.",
+      "Dokyung is holding up his phone onto the wall.",
+      "Dokyung is holding up his phone onto the left side of his ear.",
+      "Dokyung is holding up his phone onto the microphone."
+    ],
+    "q_level_logic": 2,
+    "qid": 9926935,
+    "shot_contained": [
+      552
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung holding up his phone onto?",
+    "vid": "AnotherMissOh15_018_0552",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Deogi is sitting on a couch in the living room.",
+      "Deogi is sitting on a bed in the room.",
+      "Deogi is sitting on a table in the kitchen.",
+      "Deogi is sitting on a chair in front of the table.",
+      "Deogi is sitting on a desk in the room."
+    ],
+    "q_level_logic": 1,
+    "qid": 9926111,
+    "shot_contained": [
+      557
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Deogi is sitting on?",
+    "vid": "AnotherMissOh15_019_0557",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is approaching to Jinsang while talking in the hospital.",
+      "Sukyung is approaching to Jinsang while talking in the theater.",
+      "Sukyung is approaching to Jinsang while talking in the museum.",
+      "Sukyung is approaching to Jinsang while talking in the bathroom.",
+      "Sukyung is approaching to Jinsang while talking in the living room."
+    ],
+    "q_level_logic": 2,
+    "qid": 9927259,
+    "shot_contained": [
+      573
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung approaching to Jinsang while talking?",
+    "vid": "AnotherMissOh15_020_0573",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Seohee is holding the bouquet to throw in the hospital.",
+      "Seohee is holding the bouquet to throw in the museum.",
+      "Seohee is holding the bouquet to throw in the wedding hall.",
+      "Seohee is holding the bouquet to throw in the library.",
+      "Seohee is holding the bouquet to throw in the swimming pool."
+    ],
+    "q_level_logic": 2,
+    "qid": 9952191,
+    "shot_contained": [
+      579
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Seohee holding the bouquet to throw?",
+    "vid": "AnotherMissOh15_021_0579",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "The bride and groom are in the cafe.",
+      "The bride and groom are in the wedding hall.",
+      "The bride and groom are in the restaurant.",
+      "The bride and groom are in the office.",
+      "The bride and groom are in the living room."
+    ],
+    "q_level_logic": 1,
+    "qid": 9952194,
+    "shot_contained": [
+      581
+    ],
+    "q_level_mem": 2,
+    "que": "Where are the bride and groom?",
+    "vid": "AnotherMissOh15_021_0581",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 turns to the table shaking the bouquet.",
+      "Haeyoung1 turns to the stage shaking the bouquet.",
+      "Haeyoung1 turns to the photographer shaking the bouquet.",
+      "Haeyoung1 turns to the door shaking the bouquet.",
+      "Haeyoung1 turns to the bathroom shaking the bouquet."
+    ],
+    "q_level_logic": 2,
+    "qid": 9927959,
+    "shot_contained": [
+      609
+    ],
+    "q_level_mem": 2,
+    "que": "Where does Haeyoung1 turn her face to shaking the bouquet?",
+    "vid": "AnotherMissOh15_021_0609",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang is talking to Dokyung while walking in the market.",
+      "Jinsang is talking to Dokyung while walking in the hospital.",
+      "Jinsang is talking to Dokyung while walking in the park.",
+      "Jinsang is talking to Dokyung while walking in the swimming pool.",
+      "Jinsang is talking to Dokyung while walking in the mountain."
+    ],
+    "q_level_logic": 2,
+    "qid": 9927541,
+    "shot_contained": [
+      626
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jinsang talking to Dokyung while walking?",
+    "vid": "AnotherMissOh15_023_0626",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is talking to Jinsang about the name in the museum.",
+      "Dokyung is talking to Jinsang about the name in the cafe.",
+      "Dokyung is talking to Jinsang about the name in the market.",
+      "Dokyung is talking to Jinsang about the name in the park.",
+      "Dokyung is talking to Jinsang about the name in the office."
+    ],
+    "q_level_logic": 2,
+    "qid": 9927571,
+    "shot_contained": [
+      631
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung talking to Jinsang about the name?",
+    "vid": "AnotherMissOh15_023_0631",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang is talking to Dokyung at the shopping mall.",
+      "Jinsang is talking to Dokyung at the market.",
+      "Jinsang is talking to Dokyung at the house.",
+      "Jinsang is talking to Dokyung in the room.",
+      "Jinsang is talking to Dokyung in the living room."
+    ],
+    "q_level_logic": 1,
+    "qid": 9927139,
+    "shot_contained": [
+      640
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jinsang talking to Dokyung?",
+    "vid": "AnotherMissOh15_023_0640",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Jinsang is talking to Dokyung at the vegetable section of the market.",
+      "Jinsang is talking to Dokyung in front of the cashier.",
+      "Jinsang is talking to Dokyung at home.",
+      "Jinsang is talking to Dokyung at the parking lot.",
+      "Jinsang is talking to Dokyung at the movie theater."
+    ],
+    "q_level_logic": 1,
+    "qid": 9928667,
+    "shot_contained": [
+      647
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Jinsang talking to Dokyung?",
+    "vid": "AnotherMissOh15_023_0647",
+    "correct_idx": 0
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is walking around in the hospital while holding the vegetables.",
+      "Dokyung is walking around in the market while holding the vegetables.",
+      "Dokyung is walking around in the cafe while holding the vegetables.",
+      "Dokyung is walking around in the office while holding the vegetables.",
+      "Dokyung is walking around in the bathroom while holding the vegetables."
+    ],
+    "q_level_logic": 2,
+    "qid": 9928745,
+    "shot_contained": [
+      656
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Dokyung walking around while holding the vegetables?",
+    "vid": "AnotherMissOh15_023_0656",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 and Dokyung are having a meal at the kitchen sitting at a table in front of the couch.",
+      "Haeyoung1 and Dokyung are having a meal at his room sitting at a table in front of the couch.",
+      "Haeyoung1 and Dokyung are having a meal at her room sitting at a table in front of the couch.",
+      "Haeyoung1 and Dokyung are having a meal at the backyard sitting at a table.",
+      "Haeyoung1 and Dokyung are having a meal at the living room sitting at a table in front of the couch."
+    ],
+    "q_level_logic": 2,
+    "qid": 9928997,
+    "shot_contained": [
+      677
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Haeyoung1 and Dokyung having a meal?",
+    "vid": "AnotherMissOh15_024_0677",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung and Jinsang are having a conversation in the kitchen.",
+      "Sukyung and Jinsang are having a conversation in the restaurant.",
+      "Sukyung and Jinsang are having a conversation in the bathroom.",
+      "Sukyung and Jinsang are having a conversation at the parking lot.",
+      "Sukyung and Jinsang are having a conversation in the living room."
+    ],
+    "q_level_logic": 1,
+    "qid": 9928307,
+    "shot_contained": [
+      703
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Sukyung and Jinsang having a conversation?",
+    "vid": "AnotherMissOh15_025_0703",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Sukyung is leaning her back on the couch while Jinsang is about to kiss Sukyung.",
+      "Sukyung is leaning her back on the fence while Jinsang is about to kiss Sukyung.",
+      "Sukyung is leaning her back on the chair while Jinsang is about to kiss Sukyung.",
+      "Sukyung is leaning her back on the pillow on the bed while Jinsang is about to kiss Sukyung.",
+      "Sukyung is leaning her back on the closet while Jinsang is about to kiss Sukyung."
+    ],
+    "q_level_logic": 2,
+    "qid": 9929417,
+    "shot_contained": [
+      720
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Sukyung leaning on her back while Jinsang is about to kiss Sukyung?",
+    "vid": "AnotherMissOh15_026_0720",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "A couch is located in the office.",
+      "A couch is located in the living room.",
+      "A couch is located in the cafe.",
+      "A couch is located in the kitchen.",
+      "A couch is located in the bathroom."
+    ],
+    "q_level_logic": 1,
+    "qid": 9952226,
+    "shot_contained": [
+      724
+    ],
+    "q_level_mem": 2,
+    "que": "Where is the couch located?",
+    "vid": "AnotherMissOh15_027_0724",
+    "correct_idx": 1
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 is reading the letter on the couch in the living room of Hun's house.",
+      "Haeyoung1 is reading the letter on the couch in the kitchen of Dokyung's house.",
+      "Haeyoung1 is reading the letter on the couch in the living room of Dokyung's house.",
+      "Haeyoung1 is reading the letter on the couch in the living room of Soontack's house.",
+      "Haeyoung1 is reading the letter on the couch in the living room of Gitae's house."
+    ],
+    "q_level_logic": 1,
+    "qid": 9929567,
+    "shot_contained": [
+      742
+    ],
+    "q_level_mem": 2,
+    "que": "Where is Haeyoung1 reading the letter?",
+    "vid": "AnotherMissOh15_027_0742",
+    "correct_idx": 2
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Haeyoung1 and Haeyoung2 are at the parking lot.",
+      "Haeyoung1 and Haeyoung2 are at the restaurant.",
+      "Haeyoung1 and Haeyoung2 are at the park.",
+      "Haeyoung1 and Haeyoung2 are at the office.",
+      "Haeyoung1 and Haeyoung2 are at the amusement park."
+    ],
+    "q_level_logic": 1,
+    "qid": 9929683,
+    "shot_contained": [
+      751
+    ],
+    "q_level_mem": 2,
+    "que": "Where are Haeyoung1 and Haeyoung2?",
+    "vid": "AnotherMissOh15_028_0751",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "A person is throwing a stone to the pond.",
+      "A person is throwing a stone to the river.",
+      "A person is throwing a stone to the beach.",
+      "A person is throwing a stone to the window of a house.",
+      "A person is throwing a stone to the window of a car."
+    ],
+    "q_level_logic": 1,
+    "qid": 9929805,
+    "shot_contained": [
+      785
+    ],
+    "q_level_mem": 2,
+    "que": "Where is a person throwing a stone to?",
+    "vid": "AnotherMissOh15_028_0785",
+    "correct_idx": 3
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "The cushion is on the table.",
+      "The cushion is in the cafe.",
+      "The cushion is in the bathroom.",
+      "The cushion is on the book.",
+      "The cushion is on the sofa."
+    ],
+    "q_level_logic": 1,
+    "qid": 9952264,
+    "shot_contained": [
+      804
+    ],
+    "q_level_mem": 2,
+    "que": "Where is the cushion?",
+    "vid": "AnotherMissOh15_029_0804",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "The sink is in the office.",
+      "The sink is in the restaurant.",
+      "The sink is in the car.",
+      "The sink is in the living room.",
+      "The sink is in the kitchen."
+    ],
+    "q_level_logic": 1,
+    "qid": 9952290,
+    "shot_contained": [
+      860
+    ],
+    "q_level_mem": 2,
+    "que": "Where is the sink?",
+    "vid": "AnotherMissOh15_030_0860",
+    "correct_idx": 4
+  },
+  {
+    "videoType": "shot",
+    "answers": [
+      "Dokyung is at the bridge.",
+      "Dokyung is at the car.",
+      "Dokyung is at the bus.",
+      "Dokyung is at the shop.",
+      "Dokyung is at the cafe."
+    ],
+    "q_level_logic": 1,
+    "qid": 9935387,
+    "shot_contained": [
+      1139
+    ],
+    "q_level_mem": 2,
+    "que": "Where Dokyung is at?",
+    "vid": "AnotherMissOh15_037_1139",
+    "correct_idx": 0
+  }
+]
