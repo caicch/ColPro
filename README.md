@@ -36,6 +36,8 @@ The preprocessed datasets are stored in dataset folder. You can vit pre-training
 
 ## Training LLaMA-VQA (LLaMA + ColPro)
 
+We upload the baseline code first, clean the code of the paper
+
 ### NExT-QA on a single 24G GPU
 
 ```
