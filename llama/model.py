@@ -262,37 +262,7 @@ class Transformer(nn.Module):
         quary_vqa_h = vqa_h.clone()
         quary_vqa_h[:, vqa_video_start:vqa_video_start + self.max_feats] = video_feature
         
-        if self.args.vaq and not inference:
-            vaq_h = vaq_h.clone()
-            vaq_h[:, vaq_video_start:vaq_video_start+self.max_feats] = video_feature
-            
-        if self.args.qav and not inference:
-            qav_h = qav_h * ~qav_video_mask[..., None]
-            qav_h.scatter_add_(1, qav_video_index[..., None].repeat(1, 1, self.params.dim), video_feature)
-
-        # with torch.no_grad():
-        #     for i, layer in enumerate(self.layers[-1 * self.adapter_layer:]):
-        #         if i < 19:
-        #             quary_vqa_h, K = layer(vqa_h, start_pos, freqs_cis, mask, adapter[i].half(), vqa_video_start)
-        #         else:
-        #             quary_vqa_h, _ = layer(vqa_h, start_pos, freqs_cis, mask, None, vqa_video_start) #adapter[i].half()
-        # B,_,_ = quary_vqa_h.shape
-        # _,_,L,_ = adapter_L2P.shape
-        # n_K = nn.functional.normalize(K.reshape(B, L, -1).mean(0), dim=1)  # B, 10, D
-        # q = nn.functional.normalize(quary_vqa_h.mean(1), dim=1).detach() #2, 4096
-        # cos_sim = torch.einsum('bj,kj->bk', q, n_K)
-        #
-        # top_k = torch.topk(cos_sim, self.top_k, dim=1)
-        # k_idx = top_k.indices
-        # loss_top = (1.0 - cos_sim[:, k_idx]).sum()
-        # #K.reshape(bsz, 20, -1)[:, k_idx[1], :]
-        #
-        # #K_q = K.reshape(bsz, 20, -1)[k_idx]
-        # adapterk = adapter_L2P[:,:,k_idx[0],:]
-        # adapterv = adapter_L2P[:,:,k_idx[0],:]
-        #
-        # Pv = torch.cat((adapterk, adapterv), dim=2)
-
+              
         for i, layer in enumerate(self.layers[-1 * self.adapter_layer:]):
             vqa_h, _ = layer(vqa_h, start_pos, freqs_cis, mask, None, vqa_video_start) #adapter[i].half()
         
