@@ -21,7 +21,7 @@ def train_one_epoch(model: torch.nn.Module, data_loader: Iterable, optimizer: to
         if data_iter_step % accum_iter == 0:
             lr_sched.adjust_learning_rate(optimizer, data_iter_step / len(data_loader) + epoch, args)
 
-        vqa_loss = model(data) #, vp_loss
+        vqa_loss, vaq_loss, qav_loss= model(data) 
 
         loss = vqa_loss
         loss_value = loss.item()
