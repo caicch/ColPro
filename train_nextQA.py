@@ -31,7 +31,7 @@ def get_args_parser():
     parser.add_argument('--llama_model_path', default='/mnt/data/LLama/pretrained/llama/', type=str, help='path of llama model')
     parser.add_argument('--model', default='7B', type=str, metavar='MODEL', help='Name of model to train')
     parser.add_argument('--adapter_layer', type=int, default=32, metavar='LENGTH', help='the number of adapter layer')
-    parser.add_argument('--adapter_len', type=int, default=10, metavar='LENGTH', help='the adapter length')
+    parser.add_argument('--adapter_len', type=int, default=20, metavar='LENGTH', help='the adapter length')
     parser.add_argument('--max_seq_len', type=int, default=128, metavar='LENGTH', help='the maximum sequence length')
     parser.add_argument('--max_feats', type=int, default=10, metavar='LENGTH', help='the maximum feature length')
 
