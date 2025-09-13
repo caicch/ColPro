@@ -16,7 +16,7 @@ sh setup.sh
 
 ## Dataset & LLaMA Preparation
 
-The preprocessed datasets (split NExT-QA, DramaQA) are stored in datasets folder. You can vit pre-training weight (clipvitl14.pth for NExT-QA, DramaQA) form [here](https://drive.google.com/drive/folders/1XtMZMNW3CRmzvpEVYj29iaUgDFcPUroe?usp=drive_link). Put them in ```./data```. Also, you can download original LLaMA at [here](https://github.com/facebookresearch/llama/tree/llama_v1), and put the checkpoint in ```./pretrained```. 
+The preprocessed datasets (split NExT-QA, DramaQA) are stored in datasets folder. You can vit pre-training weight (clipvitl14.pth for NExT-QA, DramaQA) form [here](https://huggingface.co/datasets/ikodoh/Flipped-VQA-Data/tree/main/data). Put them in ```./data```. Also, you can download original LLaMA at [here](https://github.com/facebookresearch/llama/tree/llama_v1), and put the checkpoint in ```./pretrained```. 
 
 ```
 ./pretrained
