@@ -5,8 +5,8 @@ import json
 class DramaQA(BaseDataset):
     def __init__(self, args=None, tokenizer=None, split='train', type = None):
         super().__init__(args, tokenizer, split)
-        self.data = json.load(open(f'/mnt/data/VQA_data/dramaqa/split_data/AnotherMissOhQA_{split}_set_{type}.json', "r"))
-        self.features = torch.load(f'/mnt/data/VQA_data/dramaqa/clipvitl14.pth')
+        self.data = json.load(open(f'/media/mldadmin/home/s123mdg312_06/data/AnotherMissOhQA_{split}_set_{type}.json', "r"))
+        self.features = torch.load(f'/media/mldadmin/home/s123mdg312_06/data/dramaqa/clipvitl14.pth')
         self.answer_mapping = {0: '(A)', 1: '(B)', 2: '(C)', 3: '(D)', 4: '(E)'}
         self.num_options = 5
         print(f"Num {split} data: {len(self.data)}")

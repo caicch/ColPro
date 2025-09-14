@@ -5,8 +5,8 @@ import pandas as pd
 class NextQA(BaseDataset):
     def __init__(self, args=None, tokenizer=None, split='train', type=None):
         super().__init__(args, tokenizer, split)
-        self.data = pd.read_csv(f'/mnt/data/VQA_data/nextqa/split_data/{split}_{type}.csv')
-        self.features = torch.load(f'/mnt/data/VQA_data/{args.dataset}/clipvitl14.pth')
+        self.data = pd.read_csv(f'/media/mldadmin/home/s123mdg312_06/data/nextqa/split_data/{split}_{type}.csv')
+        self.features = torch.load(f'/media/mldadmin/home/s123mdg312_06/data/{args.dataset}/clipvitl14.pth')
         self.answer_mapping = {0: '(A)', 1: '(B)', 2: '(C)', 3: '(D)', 4: '(E)'}
         self.num_options = 5
         self.qtype_mapping = {'CH': 1, 'CW': 2, 'TN': 3, 'TC': 4, 'TP': 5, 'DL': 6, 'DC': 7, 'DO': 8}

@@ -24,17 +24,18 @@ class BaseDataset(Dataset):
     
     def _get_text_token(self, text, answer):
         vqa_id, vqa_prefix_index, vqa_video_start = self.tokenizer.encode_vqa(text=text, max_feats=self.max_feats, split=self.split, answer_mapping=self.answer_mapping, answer=answer)
-        vaq_id, vaq_prefix_index, vaq_video_start = self.tokenizer.encode_vaq(text=text, max_feats=self.max_feats, split=self.split, answer_mapping=self.answer_mapping, answer=answer)
+        vaq_id, vaq_prefix_index, vaq_video_start, nq = self.tokenizer.encode_vaq(text=text, max_feats=self.max_feats, split=self.split, answer_mapping=self.answer_mapping, answer=answer)
         qav_id, qav_prefix_index = self.tokenizer.encode_qav(text=text, max_feats=self.max_feats, split=self.split, answer_mapping=self.answer_mapping, answer=answer)
         
         vqa_id = [torch.tensor(v_id, dtype=torch.int64) for v_id in vqa_id]
         vaq_id = [torch.tensor(v_id, dtype=torch.int64) for v_id in vaq_id]
         qav_id = [torch.tensor(v_id, dtype=torch.int64) for v_id in qav_id]
+        negv_id = [torch.tensor(v_id, dtype=torch.int64) for v_id in [nq]]
         
         vqa_padding_text_id = self._get_padding_id(vqa_id)
         vaq_padding_text_id = self._get_padding_id(vaq_id)
         qav_padding_text_id = self._get_padding_id(qav_id)
-
+        negv_id_padding_text_id = self._get_padding_id(negv_id)[:,:10]
         # label
         vqa_label = copy.deepcopy(vqa_padding_text_id)
         vqa_label[:, :vqa_prefix_index] = -1
@@ -68,7 +69,7 @@ class BaseDataset(Dataset):
         qav_video_index = torch.arange(qav_prefix_index, qav_prefix_index + self.max_feats)
         
         
-        text_id = {'vqa': vqa_padding_text_id, 'vaq': vaq_padding_text_id, 'qav': qav_padding_text_id}
+        text_id = {'vqa': vqa_padding_text_id, 'vaq': vaq_padding_text_id, 'qav': qav_padding_text_id, 'neg_q': negv_id_padding_text_id}
         label = {'vqa': vqa_label, 'vaq': vaq_label, 'qav': qav_label}
         video_start = {'vqa': vqa_video_start, 'vaq': vaq_video_start, 'qav': qav_prefix_index}
         video_index = {'vqa': vqa_video_index, 'vaq': vaq_video_index, 'qav': qav_video_index}
