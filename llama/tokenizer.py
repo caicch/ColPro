@@ -73,9 +73,20 @@ class Tokenizer:
         s1 = i_text + 'Video:'
         t1 = [self.bos_id] + self.sp_model.encode(s1)
         video_start = len(t1)
-        
+
         s2 = o_text + a_text
-        
+
+        nq = "not asking:"
+        questions = ['how', 'what', 'why', 'where']
+        for q in questions:
+            if q not in q_text:
+                nq = nq + ' ' + q
+        # neg_q = 'not asking: ' + qn
+        nq = self.sp_model.encode(nq)
+        for neg_w in range(10):
+            if len(nq) < 10:
+                 nq.append(0)
+
         if split == 'train':
             s2 = s2 + answer_mapping[answer] + "\n" + q_text
             t2 = self.sp_model.encode(s2) + [self.eos_id]
@@ -87,7 +98,7 @@ class Tokenizer:
                 t2 = self.sp_model.encode(s2 + v + "\n" + q_text) + [self.eos_id]
                 t.append(t1 + [-2 for _ in range(max_feats)] + [self.nl_id] + t2)
             prefix_index = t[answer].index(self.q_token_id) + 2
-        return t, prefix_index, video_start
+        return t, prefix_index, video_start, nq
     
     def encode_qav(self, text=None, max_feats=10, split='train', answer_mapping=None, answer=None) -> List[int]:
         i_text = "Instruction: Predict the video based on the question and answer.\n"
@@ -150,6 +161,17 @@ class Tokenizer:
         o_text = text['o_text']
         a_text = text['a_text']
         d_text = text['d_text']
+
+        nq = "not asking:"
+        questions = ['how', 'what', 'why', 'where']
+        for q in questions:
+            if q not in q_text:
+                nq = nq + ' ' + q
+        # neg_q = 'not asking: ' + qn
+        nq = self.sp_model.encode(nq)
+        for neg_w in range(10):
+            if len(nq) < 10:
+                nq.append(0)
         
         s1 = i_text + 'Video:'
         t1 = [self.bos_id] + self.sp_model.encode(s1)
@@ -173,7 +195,7 @@ class Tokenizer:
         
         prefix_index = t[0].index(self.q_token_id) + 2
         
-        return t, prefix_index, video_start, prefix_i, prefix_main
+        return t, prefix_index, video_start, prefix_i, prefix_main, nq
     
     def encode_dqav(self, text=None, max_feats=10, max_seq_len=128, split='train', answer_mapping=None, answer=None) -> List[int]:
         i_text = "Instruction: Predict the video based on the dialogue, question and answer.\n"
